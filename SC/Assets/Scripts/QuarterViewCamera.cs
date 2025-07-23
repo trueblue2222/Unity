@@ -3,7 +3,7 @@ using UnityEngine;
 public class QuarterViewCamera : MonoBehaviour
 {
     [Header("Camera Settings")]
-    public float height = 10f; // 카메라 높이 (y축)
+    public float height = 20f; // 카메라 높이 (y축)
     public float angle = 45f; // 카메라 쿼터뷰 각도
     public float distance = 8f; // 카메라가 보는 화면 범위
 
